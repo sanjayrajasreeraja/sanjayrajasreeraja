@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sanjayraja
 - 👀 I’m interested in programming and anime
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate with the clubs in my college 
+- 💞️ I’m working in SRMPedia a club in srm as a technical member.
 
 <!---
 sanjayrajasreeraja/sanjayrajasreeraja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
