@@ -35,9 +35,13 @@
 
 -💞️ I’m working in <b>SRMPedia</b> a club in my college as a technical member.
 
+## 📊Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjayrajasreeraja)](https://github.com/anuraghazra/github-readme-stats)
+
 ## ✉️Contact me:
 
-- Email => **sanjayrajasreeraja@gmail.com**
+Email => **sanjayrajasreeraja@gmail.com**
 
 <a href="https://www.linkedin.com/in/sanjayraja-sreeraja-29413a226/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"></a><a href="https://www.instagram.com/__.sanjayraja.__/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"></a>
 
