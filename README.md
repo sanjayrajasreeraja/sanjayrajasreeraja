@@ -43,7 +43,7 @@
 
 Email => **sanjayrajasreeraja@gmail.com**
 
-<a href="https://www.linkedin.com/in/sanjayraja-sreeraja-29413a226/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"></a><a href="https://www.instagram.com/__.sanjayraja.__/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"><a href="https://sanjayrajasreeraja.github.io/PersonalWebsite/#home"><img src="https://cdn-icons.flaticon.com/png/64/3178/premium/3178162.png"></a>
+<a href="https://www.linkedin.com/in/sanjayraja-sreeraja-29413a226/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"></a><a href="https://www.instagram.com/__.sanjayraja.__/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"><a href="https://sanjayrajasreeraja.github.io/PersonalWebsite/#home"><img src="![image](https://user-images.githubusercontent.com/69068704/154444082-ce0372d4-5a45-4c2f-b31a-11fdc7f76a09.png)"></a>
 
 
 
