@@ -33,7 +33,7 @@
 
 -📚 I'm a student at SRMIST,Kattankulathur.
 
--💞️ I’m working in <b>SRMPedia</b> & <b>Github Community SRM</b> a club in my college as a technical member.
+-💞️ I’m working in <b>SRMPedia</b> a club in my college as a technical member.
 
 ## 📊Stats
 
