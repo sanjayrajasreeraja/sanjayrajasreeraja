@@ -8,9 +8,7 @@
 
 -👀 I’m interested in programming and love spending time coding.
 
--🌱 I’m currently learning Web Development
-
--🔥 I'm an App Developer.
+-🔥 I'm a Developer and an Analysist.
 
 -🏋🏻 I go to gym frequently.
 
