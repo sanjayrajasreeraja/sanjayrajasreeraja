@@ -6,9 +6,9 @@
 
 ## 🙋🏻‍♂️About me:
 
--👀 I’m interested in programming and love spending time coding.
+-👀 I’m interested in programming and love spending time coding and building dashboards.
 
--🔥 I'm a Developer and an Analysist.
+-🔥 I am a Data Analyst.
 
 -🏋🏻 I go to gym frequently.
 
